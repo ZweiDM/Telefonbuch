@@ -1,7 +1,6 @@
 <?php
 // src/Model/Contact.php
 
-// declare the namespace
 namespace Telefonbuch\Model;
 
 class Contact {
